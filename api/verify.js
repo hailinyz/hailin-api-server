@@ -35,7 +35,7 @@ export default function handler(req, res) {
       },
       'VIP001': {
         type: 'standard',
-        expires: '2025-08-14',
+        expires: '2025-08-16',
         description: '标准邀请码'
       }
     };
