@@ -28,9 +28,9 @@ export default function handler(req, res) {
         expires: null,
         description: '永久VIP邀请码'
       },
-      'TEST2024': {
+      'TEST2025': {
         type: 'trial',
-        expires: '2024-12-31',
+        expires: '2025-12-31',
         description: '测试邀请码'
       },
       'VIP001': {
